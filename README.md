@@ -32,7 +32,7 @@ Which are the games we used to play in our childhood👱‍♂️ just for rando
 Keeping in mind to design an app to be entertaining as well as non-disturbing is my main goal.So i did.
 
 Hope that you all will find my app (Game World) entertaining🤹‍♀️ as well as refreshing. But also remember to get back soon to your original work.
-
+### I would like to thank my _Facilitator_, Akshat Patel - (Google Developer Student Clubs Lead, Avantika University) under whom guidance making of this project been successfull.
 
 
 # Screenshots:
@@ -100,6 +100,12 @@ The background logic used in program made in Kotlin needs proper Understanding o
 
 # Future scope:
 For future i am planning to improve it's _**UI**_ and add some more features like Navigation Menu, Bug fix if any, New games addition like Tic-tac, Hand cricket etc.
+
+This project has been made under the **Facilitation** of-
+
+**Mr. Akshat Patel**
+
+**G.D.S.C Lead, Avantika University**
 
 
 
