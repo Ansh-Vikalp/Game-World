@@ -7,7 +7,7 @@
 
 ## Problem Statement:
 
-👉To design an amusement app for peolpes to play simple games and destroy their boredem.
+👉To design an amusement app for people to play simple games and destroy their boredem.
  
 ## Proposed Solution:
 👉 A built of a Gaming app which uses Kotlin as it's backend and xml for it's frontend designing.
